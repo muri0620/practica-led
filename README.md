@@ -41,6 +41,7 @@ git commit -m "Agregando segundo LED"
 ```bash
 git checkout main
 git merge agregar-led
+git push -u origin main
 ```
 
 ### 6. Ejecutar el código en Thonny
